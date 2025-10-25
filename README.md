@@ -1,2 +1,0 @@
-# LCK2
-nothing
